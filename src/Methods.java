@@ -36,6 +36,6 @@ public class Methods {
                 e.printStackTrace();
             }
         }
-        throw new InvalidObjectException("Object faile");
+        throw new InvalidObjectException("Object failed");
     }
 }
